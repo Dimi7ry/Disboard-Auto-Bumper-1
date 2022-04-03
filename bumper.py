@@ -33,7 +33,7 @@ while x:
         }
     )
     bot.gateway.run()
-    time.sleep(random.randint(7200, 7500))
+    time.sleep(random.randint(9500, 11500))
 
 
 
